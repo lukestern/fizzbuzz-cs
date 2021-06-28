@@ -1,0 +1,16 @@
+C:\Work\TechSwitch\Course\Training-CS\FizzBuzz-CS\bin\Debug\net5.0\FizzBuzz-CS.exe
+C:\Work\TechSwitch\Course\Training-CS\FizzBuzz-CS\bin\Debug\net5.0\FizzBuzz-CS.deps.json
+C:\Work\TechSwitch\Course\Training-CS\FizzBuzz-CS\bin\Debug\net5.0\FizzBuzz-CS.runtimeconfig.json
+C:\Work\TechSwitch\Course\Training-CS\FizzBuzz-CS\bin\Debug\net5.0\FizzBuzz-CS.runtimeconfig.dev.json
+C:\Work\TechSwitch\Course\Training-CS\FizzBuzz-CS\bin\Debug\net5.0\FizzBuzz-CS.dll
+C:\Work\TechSwitch\Course\Training-CS\FizzBuzz-CS\bin\Debug\net5.0\ref\FizzBuzz-CS.dll
+C:\Work\TechSwitch\Course\Training-CS\FizzBuzz-CS\bin\Debug\net5.0\FizzBuzz-CS.pdb
+C:\Work\TechSwitch\Course\Training-CS\FizzBuzz-CS\obj\Debug\net5.0\FizzBuzz-CS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Work\TechSwitch\Course\Training-CS\FizzBuzz-CS\obj\Debug\net5.0\FizzBuzz-CS.AssemblyInfoInputs.cache
+C:\Work\TechSwitch\Course\Training-CS\FizzBuzz-CS\obj\Debug\net5.0\FizzBuzz-CS.AssemblyInfo.cs
+C:\Work\TechSwitch\Course\Training-CS\FizzBuzz-CS\obj\Debug\net5.0\FizzBuzz-CS.csproj.CoreCompileInputs.cache
+C:\Work\TechSwitch\Course\Training-CS\FizzBuzz-CS\obj\Debug\net5.0\FizzBuzz-CS.dll
+C:\Work\TechSwitch\Course\Training-CS\FizzBuzz-CS\obj\Debug\net5.0\ref\FizzBuzz-CS.dll
+C:\Work\TechSwitch\Course\Training-CS\FizzBuzz-CS\obj\Debug\net5.0\FizzBuzz-CS.pdb
+C:\Work\TechSwitch\Course\Training-CS\FizzBuzz-CS\obj\Debug\net5.0\FizzBuzz-CS.genruntimeconfig.cache
+C:\Work\TechSwitch\Course\Training-CS\FizzBuzz-CS\obj\Debug\net5.0\FizzBuzz-CS.csproj.AssemblyReference.cache
